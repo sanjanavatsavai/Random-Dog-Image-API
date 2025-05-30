@@ -37,3 +37,11 @@ button {
 button:hover {
   background-color: #1d46d1;
 }
+
+
+.breed-name {
+  font-size: 18px;
+  color: #444;
+  margin: 10px 0;
+  text-transform: capitalize;
+}
