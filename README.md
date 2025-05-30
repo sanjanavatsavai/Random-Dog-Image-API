@@ -1,6 +1,8 @@
 # 🐶 Random Dog Image & Breed App
 
 A fun, interactive **React app** that fetches random dog images and displays their breed names using the **Dog CEO API**.
+
+
 ![Screen Shot 2025-05-30 at 4 24 18 PM](https://github.com/user-attachments/assets/4a4cedd6-36f5-4f37-9bdd-505afa5570b6)
 
 ---
