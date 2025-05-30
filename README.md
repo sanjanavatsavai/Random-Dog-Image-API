@@ -54,6 +54,9 @@ cd random-dog-app
 
 2️⃣ Install Dependencies
 
+npm install
+
+
 3️⃣ Start the App
 
 npm start
